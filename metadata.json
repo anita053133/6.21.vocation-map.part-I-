@@ -1,0 +1,6 @@
+{
+  "name": "天職地圖導航儀",
+  "description": "一個協助妳探索理想生活與天職路徑的互動式引導工作坊",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
